@@ -19,16 +19,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naviru88&show_icons=true&theme=dark" alt="Naviru's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naviru88&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
 ## 🛠️ My Projects
 
 ### 🌟 Featured Projects
@@ -114,14 +104,6 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-
----
-
-## 🐍 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/naviru88/naviru88/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ---
 
