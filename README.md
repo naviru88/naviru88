@@ -2,7 +2,7 @@
 
 ### 👋 Hey There! I'm Naviru Dissanayake 👨‍💻
 
-📌 **Full Stack Developer   Open-Source Contributor**
+📌 **Full Stack Developer | Open-Source Contributor**
 
 ---
 
@@ -12,7 +12,7 @@
 - 💻 **Full Stack Developer | JavaScript/TypeScript | Python | PHP | Java**
 - 🔧 **Building Browser Extensions, Web Applications & AI-Powered Solutions**
 - 🌐 **Passionate about Accessibility, Open-Source Projects & Innovative Tech**
-- 📧 **Email:** [your.email@example.com](mailto:navirudissanayake@gmail.com)
+- 📧 **Email:** [navirudissanayake@gmail.com](mailto:navirudissanayake@gmail.com)
 - 📍 **Location:** [Colombo, Sri Lanka]
 
 ✨ **Let's build something amazing together!**
