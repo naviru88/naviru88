@@ -22,8 +22,9 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naviru88&show_icons=true&theme=radical&hide_border=true" alt="Naviru's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naviru88&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naviru88&show_icons=true&theme=dark" alt="Naviru's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naviru88&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
@@ -118,15 +119,9 @@
 
 ## 🐍 GitHub Contribution Graph
 
-<!-- IMPORTANT: The snake image only works if you have set up the GitHub Action for it. 
-     If you haven't set up the action yet, this image will remain broken. 
-     Uncomment the code below once your action is running successfully. -->
-
-<!-- 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naviru88/naviru88/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/naviru88/naviru88/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
--->
 
 ---
 
